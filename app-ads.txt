@@ -1,0 +1,45 @@
+# app-ads.txt — ORBGRID
+#
+# This file must be served from the ROOT of the developer website that you list
+# in the Google Play / App Store listing. Once this site is published that is:
+#
+#     https://orbgrid.github.io/app-ads.txt
+#
+# The developer website in the Play listing must therefore be
+# https://orbgrid.github.io/ — Google only looks for app-ads.txt at the root of
+# whatever URL you declared there.
+#
+# ─────────────────────────────────────────────────────────────────────────────
+# NOT YET ACTIVE. The line below is a template and is intentionally commented
+# out, because the real AdMob publisher ID is not known yet. An app-ads.txt file
+# containing a wrong or invented publisher ID is worse than no file at all: it
+# authorises the wrong seller.
+# ─────────────────────────────────────────────────────────────────────────────
+#
+# HOW TO COMPLETE IT
+#
+# 1. In AdMob, open:  Settings → Account information
+#    Copy your Publisher ID. It looks like  pub-0000000000000000
+#
+# 2. Uncomment the line below and replace the placeholder with that ID
+#    (keep the rest of the line exactly as-is):
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+#    - google.com ............ the ad system (Google)
+#    - pub-XXXX... ........... YOUR AdMob publisher ID
+#    - DIRECT ................ you have a direct relationship with Google
+#    - f08c47fec0942fa0 ...... Google's TAG-ID certification authority ID.
+#                              This value is the same for everyone. Do not change it.
+#
+# 3. Make sure the developer website URL in your Play Store listing points at
+#    the site hosting this file, then in AdMob open:
+#       Apps → (your app) → App settings → app-ads.txt
+#    and use "Check for updates". Google can take up to ~24 hours to crawl it.
+#
+# NOTE: app-ads.txt is not required in order to serve ads, but it is strongly
+# recommended — it prevents others from fraudulently claiming to sell your ad
+# inventory, and some ad buyers only bid on apps that publish it.
+#
+# Add one line per authorised ad system. If you later add another ad network,
+# that network will give you its own line to append here.
