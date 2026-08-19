@@ -10,10 +10,9 @@
 # whatever URL you declared there.
 #
 # ─────────────────────────────────────────────────────────────────────────────
-# NOT YET ACTIVE. The line below is a template and is intentionally commented
-# out, because the real AdMob publisher ID is not known yet. An app-ads.txt file
-# containing a wrong or invented publisher ID is worse than no file at all: it
-# authorises the wrong seller.
+# ACTIVE since 2026-08-19. The authorisation line is at the BOTTOM of this file.
+# Publisher ID pub-7931200009682356 is derived from the AdMob app id
+# ca-app-pub-7931200009682356~6886017675 (ORBGRID Android).
 # ─────────────────────────────────────────────────────────────────────────────
 #
 # HOW TO COMPLETE IT
@@ -43,3 +42,6 @@
 #
 # Add one line per authorised ad system. If you later add another ad network,
 # that network will give you its own line to append here.
+
+# ── AUTHORISED SELLERS ───────────────────────────────────────────────────────
+google.com, pub-7931200009682356, DIRECT, f08c47fec0942fa0
