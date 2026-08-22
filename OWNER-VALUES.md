@@ -11,7 +11,7 @@ what was applied and where, so a future edit can be made consistently.
 | Value | Applied as | Occurrences |
 |---|---|---|
 | Legal owner | `LUNQO APPS` | 27 |
-| Support email | `support.orbgridGame@gmail.com` | 18 |
+| Support email | `support@lunqolabs.com` | 18 |
 | Business country | `Tunisia` / `Tunisie` / `تونس` | 6 each |
 | Governing law | `Tunisia` / `la Tunisie` / `تونس` | 2 each |
 | Effective date | `30 July 2026` / `30 juillet 2026` / `٣٠ يوليو ٢٠٢٦` | 2 each |

@@ -7,7 +7,7 @@ and no server: the files you see are exactly the files that get served.
 are ready. Total cost: nothing. Total time: about 15 minutes.
 
 **The owner values are already filled in** — LUNQO APPS, Tunisia,
-`support.orbgridGame@gmail.com`, effective 30 July 2026. Nothing in the pages
+`support@lunqolabs.com`, effective 30 July 2026. Nothing in the pages
 needs editing before you publish. The only value still outstanding is the AdMob
 publisher ID for `app-ads.txt`, which is added later (Step 9).
 
@@ -160,7 +160,7 @@ In **Play Console → your app**:
 
 1. **Store presence → Store listing**
    - **Website:** `https://orbgrid.github.io/`
-   - **Email:** `support.orbgridGame@gmail.com`
+   - **Email:** `support@lunqolabs.com`
 2. **Policy → App content → Privacy policy**
    - **Privacy policy URL:** `https://orbgrid.github.io/privacy/`
 3. Still under **App content**, complete the **Data safety** form. Use the
